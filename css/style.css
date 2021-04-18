@@ -2,12 +2,16 @@
     margin: 0;
     padding: 0;
 }
+header{
+     width: 100%;
+    }
+
 .header-content{
     background: #242424;
-    width: 100%;
+    width: 90%;
     margin: auto;
     overflow: hidden;
-    padding: 15px;
+    padding: 10px 0;
     color: white;
 
 
@@ -175,7 +179,7 @@ nav ul li{
 
 }
 .content-last{
-    width: 90%;
+    width: 88%;
     overflow: hidden;
     text-align: center;
     padding-top: 20px;
